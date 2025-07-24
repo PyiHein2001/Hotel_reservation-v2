@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+
+# XAMPP and local environment files
+*.log
+*.env
+
+# Node modules (if any)
+node_modules/
+
+# Composer dependencies (if used)
+vendor/
+
+# IDE/project files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Uploads and user-generated content
+uploads/
+
+# Cache and session files
+cache/
+session/
+
+# SASS/SCSS cache
+.sass-cache/
+
+# Backup files
+*~
+*.bak
+
+# Other
+UI/ 
